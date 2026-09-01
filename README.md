@@ -10,3 +10,7 @@ Preparar la estructura inicial de un proyecto utilizando control de versiones.
 
 ## Autor 
 Mateo Javier Ortega Fernandez
+
+## Estado del proyecto 
+ 
+Proyecto en etapa inicial.
