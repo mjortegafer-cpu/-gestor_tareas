@@ -14,3 +14,6 @@ Mateo Javier Ortega Fernandez
 ## Estado del proyecto 
  
 Proyecto en etapa inicial.
+## Control de versiones 
+ 
+Este proyecto utiliza Git para el control de versiones y GitHub como repositorio remoto.
