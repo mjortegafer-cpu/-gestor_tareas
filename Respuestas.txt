@@ -1,0 +1,18 @@
+1. ¿Cuál es la diferencia entre Git y GitHub? 
+Respuesta: Git es un sistema de control de versiones que permite gestionar cambios en el código de manera local.
+
+GitHub es una plataforma en la nube que hospeda repositorios Git y facilita la colaboración entre desarrolladores.
+2. ¿Qué función cumple el área de stage? 
+Respuesta: El área de stage (o staging area) es una zona intermedia donde se colocan los archivos que se van a incluir en el próximo commit. Permite revisar y seleccionar qué cambios se registrarán en el historial. 
+3. ¿Para qué sirve un commit? 
+Respuesta: Un commit guarda un conjunto de cambios en el historial del repositorio, acompañado de un mensaje descriptivo. Es como tomar una “fotografía” del estado del proyecto en ese momento. 
+4. ¿Cuál es la función del archivo .gitignore? 
+Respuesta: El archivo .gitignore indica a Git qué archivos o carpetas no deben ser rastreados ni subidos al repositorio (por ejemplo, configuraciones locales, archivos temporales o entornos virtuales). 
+5. ¿Por qué no debe almacenarse normalmente el entorno virtual .venv en GitHub? 
+Respuesta: Porque el entorno virtual contiene dependencias específicas del sistema y puede ocupar mucho espacio. Lo correcto es compartir solo el archivo requirements.txt para que otros puedan recrear el entorno en sus equipos. 
+6. ¿Qué relación existe entre el repositorio local y el repositorio remoto? 
+Respuesta: El repositorio local está en tu computadora y guarda tus cambios. El repositorio remoto (por ejemplo, en GitHub) es el que se comparte con otros. Se sincronizan mediante comandos como push y pull.
+7. ¿Qué diferencia existe entre ejecutar commit y ejecutar push? 
+Respuesta: Commit: registra cambios en el repositorio local.
+
+Push: envía esos commits al repositorio remoto para compartirlos con otros colaboradores.
